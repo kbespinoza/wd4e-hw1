@@ -1,6 +1,6 @@
 body {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: 100%;
+    font-size: 20px;
 }
 
 header {
@@ -13,7 +13,7 @@ header {
 
 main{
     background-color: #f5ebe0ff;
-    font-size: 100%;
+    font-size: 30px;
 } 
 
 div {
@@ -49,3 +49,4 @@ p{
 img{
     display: inline-block;
 }
+
