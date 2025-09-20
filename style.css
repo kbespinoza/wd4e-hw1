@@ -16,8 +16,20 @@ main{
     font-size: 100%;
 } 
 
+div {
+    display: flex;
+    height: 50%;
+    width: 50%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: stretch;
+    align-items: stretch;
+    justify-items: stretch;
+    justify-content: space-between;
+}
 footer{
-    background-color: #e0c1b3;
+    background-color: #eee3df;
+    display: block;
 } 
 
 li{
